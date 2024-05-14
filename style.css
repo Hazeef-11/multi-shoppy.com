@@ -1,0 +1,133 @@
+body{
+    background-color: rgba(255, 255, 255, 0.932);
+}
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+
+.top{
+   background-color: black;
+   color: rgb(255, 230, 0);
+height: 100px; 
+border-color: rgb(255, 230, 0);
+    border-width: 10px;
+    border-style: solid;
+
+}
+
+
+.ti{
+text-align: center;
+font-style: italic;
+font-size: 200%;
+padding-top: 25px;
+}
+
+.hi{
+    margin-left: 80%;
+    cursor: pointer;
+padding-top: 100%;
+
+}
+.hi:hover{
+    color: blue;
+}
+
+.bottom{
+    margin-top: 50px;
+    text-align: center;
+}
+
+.hh{
+    margin-top: 30px;
+}
+
+.aa{
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 20px
+;
+}
+
+.mid2{
+    border-color: black;
+    border-width: 5px;
+    border-style: solid;
+    display: inline-block;
+    text-align: center;
+    width: 393px;
+    margin-top: 30px;
+    height: 320PX;
+}
+
+.oo{
+    background-color: yellow;
+    padding: 0px;
+   
+
+    }
+
+.all{
+text-align: center;
+margin-left: 35px;
+
+}
+
+.ab{
+    text-align: center;
+  
+}
+
+.pp{
+    margin-top: 25px;
+}
+
+.mid3{
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 230, 0);
+    border-color: rgb(255, 230, 0);
+    border-width: 3px;
+    border-style: solid;
+    margin-top: 80px;
+}
+
+.all:hover{
+  cursor: pointer;
+}
+     
+.mid1{
+    text-align: center;
+ padding: 10px;
+background-color: black;
+    color: rgb(255, 230, 0);
+
+   
+    
+}
+
+.g{
+    margin-top: 10px;
+}
+
+.mm{
+    border-color: rgb(255, 230, 0);
+    border-width: 5px;
+    border-style: solid;
+    margin-top: 50px;
+    
+}
+
+.bottom{
+    background-color: black;
+    color: rgb(255, 230, 0);
+    border-color: rgb(255, 230, 0);
+    border-width: 3px;
+    border-style: solid;
+    
+
+}
+
+
+    
